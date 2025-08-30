@@ -18,6 +18,6 @@ This helps reduce downtime, optimize maintenance schedules, and save costs in in
 
 ## Installation
 ```bash
-git clone https://github.com/USERNAME/AI-Predictive-Maintenance.git
+git clone https://github.com/NiMa.Riahipour/AI-Predictive-Maintenance.git
 cd AI-Predictive-Maintenance
 pip install -r requirements.txt
